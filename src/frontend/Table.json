@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Abdul Khobir",
+        "username": "khobir",
+        "userrole": "admin",
+        "lastonline": "1 hour ago"
+    },
+    {
+        "name": "Muhammad Faisal",
+        "username": "faisal",
+        "userrole": "user",
+        "lastonline": "10 hours ago"
+    },
+    {
+        "name": "Yusuf Wisnu",
+        "username": "ucup",
+        "userrole": "admin",
+        "lastonline": "30 minutes ago"
+    },
+    {
+        "name": "Rifaldi KN",
+        "username": "faldi",
+        "userrole": "admin",
+        "lastonline": "1 hour ago"
+    }
+]
