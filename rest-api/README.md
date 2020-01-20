@@ -2,6 +2,10 @@
 
 **1.** Type in CMD "pip install requirements.txt"
 
+**2.** Type in CMD ".\manage.py migrate"
+
+**3.** Type in CMD ".\manage.py createsuperuser"
+
 **2.** Type in CMD ".\manage.py runserver"
 
 **3.** Copy the address to your browser
