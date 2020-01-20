@@ -6,8 +6,8 @@
 
 **3.** Type in CMD ".\manage.py createsuperuser"
 
-**2.** Type in CMD ".\manage.py runserver"
+**4.** Type in CMD ".\manage.py runserver"
 
-**3.** Copy the address to your browser
+**5.** Copy the address to your browser
 
-**4.** That's All
+**6.** That's All
